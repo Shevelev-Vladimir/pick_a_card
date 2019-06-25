@@ -21,3 +21,5 @@ suits = %w[♦ ♥ ♣ ♠]
 
 # Выведем произвольную карты, выбрав по одному элементу из массивов
 puts values.sample + suits.sample
+
+puts "test"
